@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.user-panel-chapter-video-head{
+    color: #3742fa;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.user-panel-chaptervideo-container{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    align-content: center;
+    align-items: center;
+}  
+.user-panel-chaptervideo-video-details{
+    display: inline;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+.user-panel-chapter-video-head{
+    margin-left: 80px;
+    font-size: 25px;
+}
+.user-panel-chaptervideo-video-size{
+    width: 200px;
+    height: auto;
+   
+    border-radius: 15px;
+}
+
+.user-panel-chaptervideo-video{
+    width: 200px;
+    height: auto;
+     border-radius: 5px;
+}
+.user-panel-chaptervideo-video-size :hover{
+    transform: scale(1.1); 
+}
+.user-panel-chaptervideo-assignment-form-image{
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+    border: 6px solid rgb(255, 255, 255);
+    outline: 6px solid rgb(0, 0, 0);
+   
+    
+}
+.user-panel-chaptervideo-assignment-form-image:hover{
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+    transform: scale(1.1); 
+    border: none;
+    outline: none;
+    
+    
+}
+.user-panel-chaptervideo-assignment-test-image{
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+    border: 6px solid rgb(255, 255, 255);
+    outline: 6px solid rgb(16, 82, 168);
+   
+    
+}
+.user-panel-chaptervideo-assignment-test-image:hover{
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+    transform: scale(1.1); 
+    border: none;
+    outline: none;
+    
+    
+}
